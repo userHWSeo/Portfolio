@@ -1,5 +1,6 @@
 import React from "react";
 import styled from "styled-components";
+import Emoji from "./image/emoji.png";
 
 const ProfileBox = styled.div`
   display: flex;
@@ -62,7 +63,7 @@ function Profile() {
   return (
     <>
       <ProfileBox>
-        <ProfileImg src={require("./image/emoji.png")} />
+        <ProfileImg src={Emoji} />
         <AboutHeader>
           <h1>안녕하세요 !</h1>
           <h1>꿈나무 개발자 서희원입니다 🌱</h1>
