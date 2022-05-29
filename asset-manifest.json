@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Portfolio/static/js/main.f532e98d.js",
+    "static/media/netflix.png": "/Portfolio/static/media/netflix.f4fd189ce26bd175d47d.png",
+    "static/media/artweb.png": "/Portfolio/static/media/artweb.7a797157a70185794620.png",
+    "static/media/samsung.png": "/Portfolio/static/media/samsung.70f51384d6b6bad33bc6.png",
+    "static/media/emoji.png": "/Portfolio/static/media/emoji.92af182f056094453e51.png",
+    "static/media/youtube.png": "/Portfolio/static/media/youtube.0ab208da78cb65a07c5f.png",
+    "index.html": "/Portfolio/index.html",
+    "main.f532e98d.js.map": "/Portfolio/static/js/main.f532e98d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f532e98d.js"
+  ]
+}
