@@ -1,8 +1,9 @@
 import React from "react";
 import styled from "styled-components";
 import GlobalStyle from "./GlobalStyle";
-import NavBar from "./Header";
 import Profile from "./Profile";
+import Project from "./Project";
+import Contact from "./Contact";
 
 const Home = styled.div`
   width: 100%;
@@ -13,11 +14,9 @@ function App() {
   return (
     <Home>
       <GlobalStyle />
-      <NavBar />
       <Profile />
-      {/* <Project />
-      <How />
-      <Contact /> */}
+      <Project />
+      <Contact />
     </Home>
   );
 }

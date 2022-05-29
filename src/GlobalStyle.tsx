@@ -20,8 +20,8 @@ time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #fff;
+	font-family: "Jua", sans-serif;
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
@@ -46,7 +46,7 @@ table {
 	border-spacing: 0;
 }
 body {
-    background-color: #3f3f3f;
+    background-color: #161616;
 }
 `;
 

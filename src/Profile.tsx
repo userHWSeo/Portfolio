@@ -1,4 +1,3 @@
-import React from "react";
 import styled from "styled-components";
 import Emoji from "./image/emoji.png";
 
@@ -72,7 +71,7 @@ function Profile() {
       <AboutMe>
         <h2>어바웃 미</h2>
         <>
-          <p>안녕하세요. 프론트엔드 꿈나무인 서희원입니다</p>
+          <p>안녕하세요. 프론트엔드 꿈나무 서희원입니다</p>
           <p>React를 사용한 토이 프로젝트 제작을 좋아합니다.</p>
           <p>자바스크립트와 타입스크립트에 관심이 많습니다.</p>
           <p>디자인과 새로운 라이브러리에 대한 호기심이 많습니다.</p>
